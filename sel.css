@@ -1,0 +1,32 @@
+body {
+	background: linen;
+	width: 500px;
+	margin: 200px auto;
+}
+a {
+	color: cornflowerblue;
+	text-decoration: none;
+}
+a:visited {
+	color: tomato;
+}
+a:hover {
+	/*text-decoration: underline;*/
+	display: none;
+}
+h1 {
+	background: black;
+	color: white;
+	position: absolute;
+	top: 200px;
+	left: 250px;
+}
+h1:hover {
+	background: green;
+	color: white;
+}
+p {
+	color: red;
+	margin: 10px;
+	padding: 20px;
+}

@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+<title>Списки ссылок пример</title>
+</head>
+<body>
+	<h1>Пример списков</h1>
+	<!-- Мы заключаем ссылку внутри тегов ul -->
+	<ul>
+		<li>
+			Это <a href="http://www.google.com"ссылка</a> на Google!
+		</li>
+		<li>
+			<a href="http://example.com">
+				Эта ссылка немного длиннее
+			</a>
+		</li>
+	</ul>
+
+</ul>
+
+</body>
+</html>

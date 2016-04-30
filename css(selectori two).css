@@ -1,0 +1,14 @@
+
+ol {
+	border: 5px solid darksalmon;
+	border-radius: 10px;
+}
+ol li {
+	color: brown;
+}
+li:first-child {
+	background: orange;
+	}
+	li:nth-child(3) {
+		background: orange;
+	}

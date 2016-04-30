@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+<head>
+<title>
+selectori
+</title>
+<link href="sel.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<h1>ПРивет!</h1>
+<p>Это абзац.</p>
+<div>
+<a href="http://example.com">Click me!</a>
+</div>
+<p>Это второй абзац.</p>
+</body>
+</html>

@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+<head>
+<title>
+Глава 3 пример отступов и полей
+</title>
+<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div>
+<p>ЭТО АБЗАЦ. НАХОДЯЩИЙСЯ ВНТРИ ЭЛЕМЕНТА DIV</p>
+</div>
+</body>
+</html>

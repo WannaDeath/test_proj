@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+<head>
+<title>Amazeriffic</title>
+</head>
+<body>
+<header>
+<h1>Amazeriffic</h1>
+<nav>
+<a href="#">Регистрация</a> |
+<a href="file:///E:/projeckts/Amazeficc/ViO">ВиО</a> |
+<a href="#">ТехПоддержка</a>
+</nav>
+</header>
+<main>
+<h2>Amazeriffic изменит вашу жизнь!</h2>
+<p>Lorem in pis um akrape</p>
+<h3>Почему вам нужен Amazeffic?</h3>
+<ul>
+<li>Он легко впишется в вашу жизнь</li>
+<li>Он перевернет вашу жизнь</li>
+<li>он классный!</li>
+</ul>
+<img src="1140432.jpeg" alt="Изображение лампочки">
+</main>
+<footer>
+<div class="contract">
+<h5>Свяжитесь с нами</h5>
+<p>Amazeriffic!</p>
+<p>555 54 Улица</p>
+<p>ул. Ешелаа Северная Каролина 22255</p>
+</div>
+<div class="sitemap">
+<h5>Карта сайта</h5>
+<ul>
+<li><a href="#">Домой</a></li>
+<li><a href="#">О нас</a></li>
+<li><a href="#">Право</a></li>
+<li><a href="#">ТехПоддержка</a></li>
+<li><a href="file:///E:/projeckts/Amazeficc/ViO">ВиО</a></li>
+<li><a href="#">Вакансии</a></li>
+</ul>
+</div>
+</footer>
+</body>
+</html>

@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>
+Приложение ДЖС
+</title>
+<link href="stylejss.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<h1>
+Название прил.
+</h1>
+<p>Описание приложения</p>
+<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
